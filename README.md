@@ -2,6 +2,8 @@
 
 LIVE: https://h21-cook.netlify.app/
 
+Buy me a burger: https://www.buymeacoffee.com/Hovsep93
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
